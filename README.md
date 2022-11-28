@@ -1,4 +1,5 @@
 Afin de lancer l'application, vous devez :
+- Se mettre sur un environnement Linux
 - Executer le fichier app.py
 - Se placer dans le folder react_front
 - Lancer npm install puis npm start
